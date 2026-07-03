@@ -1,4 +1,4 @@
-### Exercise 1. Visualization of traffic incident concentration
+## Exercise 1. Visualization of traffic incident concentration
 
 Write a script to visualize traffic incident data on a map. Please generate the complete code to perform the following steps:
 
