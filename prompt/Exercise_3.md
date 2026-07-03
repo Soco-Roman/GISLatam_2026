@@ -1,4 +1,5 @@
 ## Exercise 3. Quantifying Cyclist Safety: Exposure and Risk Index Modeling
+Write a complete, optimized script using geopandas, matplotlib, osmnx, sklearn, mapclassify, and contextily to perform the following spatial analysis and visualization tasks for Mexico City. Follow the next steps:
 
 1. **Load Data:** Load the local files: `infra_ciclista.geojson`, `vialidades_cdmx.geojson`, and `atus_cdmx.geojson`.
 2. **Reprojection:** Convert the Coordinate Reference System (CRS) of all three GeoDataFrames to Web Mercator (EPSG:3857) to ensure alignment with web basemaps.
